@@ -1,0 +1,246 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+import Header from '~/components/widgets/Header.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Content from '~/components/widgets/Content.astro';
+import CallToAction from '~/components/widgets/CallToAction.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
+
+const metadata = {
+  title: 'Inicio',
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="announcement"></Fragment>
+  <Fragment slot="header">
+    <Header
+      links={[
+        { text: 'Inicio', href: '#' },
+        { text: 'Sobre mi', href: '#about' },
+        { text: 'Porfolio', href: '#porfolio' },
+        { text: 'Blog', href: '#blog' },
+        { text: 'Tienda', href: 'https://www.latostadora.com/shop/quicothesiamese/' },
+      ]}
+      actions={[
+        {
+          text: 'Hagamos realidad tu idea',
+          href: 'mailto:guitarranalon@gmail.com',
+        },
+      ]}
+      isSticky
+      showToggleTheme
+    />
+  </Fragment>
+
+  <!-- Hero2 Widget ******************* -->
+
+  <Hero
+    id="hero"
+    title="siamese.dev"
+    tagline="gestión y desarrollo de proyectos digitales"
+    actions={[{ variant: 'primary', text: 'Hagamos realidad tu idea', href: 'mailto:guitarranalon@gmail.com' }]}
+  >
+    <Fragment slot="subtitle">
+      Tras años colaborando con grandes y pequeñas marcas para construir su experiencia digital ahora puedo ayudarte con la tuya.
+    </Fragment>
+  </Hero>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    id="about"
+    columns={3}
+    items={[]}
+    image={{
+      src: '~/assets/images/aboutme.webp',
+      alt: 'Colorful Image',
+      loading: 'eager',
+    }}
+  >
+    <Fragment slot="content">
+      <h2 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Sobre mi</h2>
+      <p>
+        ¡Hola! Soy Roberto, desarrollador frontend con más de 15 años de experiencia. He tenido el privilegio de trabajar con instituciones como la Universidad de Oviedo y Paradores así como con multinacionales de la talla de Inditex, Total Energies, EDP, Alsa, ArcelorMittal. Durante mi carrera, he desarrollado interfaces web atractivas, eficientes y orientadas a mejorar la experiencia de usuario, siempre adaptándome a las necesidades del cliente y del proyecto.
+      </p>
+      <br />
+      <p>
+        Ahora pongo toda esa experiencia a tu disposición para ayudarte a transformar tu visión en una web moderna y funcional que marque la diferencia. Ya sea que necesites una página web única, optimización de rendimiento o mejorar la experiencia de usuario, estoy aquí para hacerlo realidad. También puedo ayudarte a organizar tu proyecto mediante métodos ágiles.
+      </p>
+      <br />
+      <p>
+        Si estás buscando a alguien que se comprometa de lleno en tu proyecto, ¡hagamos equipo! <a href="mailto:guitarranalon@gmail.com" title="¡Hablemos!">Contáctame</a> y hablemos de cómo puedo ayudarte.
+      </p>
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="¿En qué puedo ayudarte?"
+    subtitle="Especialidades"
+    columns={3}
+    defaultIcon="tabler:point-filled"
+    items={[
+      {
+        title: 'Desarrollo frontend',
+        description: '¿Arquitectura hexagonal? ¿Microfrontends? ¿Qué framework se te está haciendo cuesta arriba?',
+      },
+      {
+        title: 'Gestión ágil de proyectos',
+        description: 'El cambio va a llegar a tu proyecto, ¡preparémonos!',
+      },
+      {
+        title: 'Diseño gráfico',
+        description: 'Desde un pequeño logo para empezar hasta el manual de marca',
+      },      
+    ]}
+  />
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    id="porfolio"
+    title="Proyectos"
+    subtitle="Descubre algunos de mis proyectos"  
+    isReversed
+    isAfterContent={true}
+    items={[
+      {
+        title: 'Descripción:',
+        description:
+          'El Trail Valle de Samuño ha sido mi proyecto más extenso; desde 2016 he trabajado para crear una imagen corporativa acorde al tipo de evento e imagen que se deseaba transmitir, a partir de la cual se han creado múltiples aplicaciones impresas (carteles, flyers, dossier para patrocinadores, rollups, photocalls, arcos de meta) así como una potente y útil web que se ha evolucionado incrementalmente para introducir mejoras cada año.',
+      },
+      {
+        title: 'Características:',
+        description: `La web ha ido evolucionando con la tecnología, actualmente está montada sobre un generador de sitios estáticos <a href="https://astro.build/" title="Ir a la web de Astro">Astro</a> que, acompañado de una buena estructura nos brinda mucha flexibilidad para poder hacer las importantes modificaciones que se necesitan en cada edición de manera rápida y eficaz.`,
+      },
+    ]}
+    image={{
+      src: '~/assets/images/tvs.webp',
+      alt: 'Imagen de la web',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Ir a la web',
+      icon: 'tabler:chevron-right',
+      href: 'https://www.xn--trailvallesamuo-crb.es/',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">
+        Trail Valle de Samuño: <br /><span class="text-2xl">Diseño gráfico y web del evento</span>
+      </h3>
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
+  <Content
+    isReversed
+    items={[
+      {
+        title: 'Descripción:',
+        description:
+          'App muy interactiva y visual con información para ascender a los puntos más altos de cada uno de los 78 municipios de Asturias.',
+      },
+      {
+        title: 'Características:',
+        description:
+          'Este proyecto no es un simple recopilatorio de información, sino que, utilizando algunas de las características más propias de apps móviles sirve para orientarte y encontrar todos los techos fácilmente. El mapa indica tu progreso y ha ayudado ya a muchas personas a motivarse para conseguir su reto.',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/techosdeasturias.webp',
+      alt: 'Imagen de la aplicación',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Ir a la app',
+      icon: 'tabler:chevron-right',
+      href: 'https://guitarranalon.github.io/MisTechosAsturias2',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">
+        Techos de Asturias: <br /><span class="text-2xl">Difundiendo el conocimiento de Asturias y sus montañas</span>
+      </h3>
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isReversed
+    isAfterContent={true}
+    items={[
+      {
+        title: 'Descripción:',
+        description: `Minijuego de plataformas sobre reciclaje con la mascota del Colegio de Lada, Gurgullín, como protagonista`,
+      },
+      {
+        title: 'Características:',
+        description: `Desarrollado utilizando el potente framework Phaser como soporte al proyecto de reciclaje del Colegio y buscando la sencillez para poder ser jugado por el mayor rango posible de edades.`,
+      },
+    ]}
+    image={{
+      src: '~/assets/images/gurgullinrecicla.webp',
+      alt: 'Pantalla del presentación del juego',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Ir al juego online',
+      icon: 'tabler:chevron-right',
+      href: 'https://guitarranalon.github.io/gurgullin-recicla',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">
+        Gurgullín Recicla: <br /><span class="text-2xl">Minijuego sobre el reciclaje para el Colegio Benedicto Bembibre Torre de Lada.</span>
+      </h3>
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+   <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    title="Trabajemos juntos"
+    subtitle="¿Estás preparado para llevar tu experiencia digital al siguiente nivel?"
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Hagamos realidad tu idea',
+        href: 'mailto:guitarranalon@gmail.com',
+      },
+    ]}
+  />
+
+  <!-- BlogLatestPost Widget **************** -->
+
+  <BlogLatestPosts
+    id="blog"
+    title="Echa un vistazo más detallado a algunas ideas"
+    information={`Aquí encontrarás contenidos más extensos y detallados sobre mis variadas creaciones digitales.`}
+  >
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </BlogLatestPosts>
+</Layout>
