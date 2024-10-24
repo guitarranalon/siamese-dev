@@ -6,7 +6,7 @@ site:
 
   googleSiteVerificationId: false
 
-# Default SEO metadata
+# Default metadata SEO 
 metadata:
   title:
     default: siamese.dev
