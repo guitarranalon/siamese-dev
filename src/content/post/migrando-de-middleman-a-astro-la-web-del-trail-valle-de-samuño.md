@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-07-23T00:00:00Z
 author: Roberto
-title: Migrando de Middlenman a Astro la web del Trail Valle de Samuño
+title: Migrando de Middleman a Astro la web del Trail Valle de Samuño
 excerpt: Porque cualquier momento es bueno para hacer mejoras en un proyecto
 image: https://images.unsplash.com/photo-1516996087931-5ae405802f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 category: Proyectos web
@@ -23,9 +23,9 @@ Llevaba tiempo oyendo hablar de Astro y su gran potencia, así como el hecho de 
 
 1. Crear el proyecto Astro
 2. Copiar los archivos desde el proyecto Middleman
-3. Cambiar los archivos *.html.erb por archivos *.astro
-4. Cambiar los *.yml por *.json
-5. Editar las plantillas y los métodos de utilidad 
+3. Cambiar los archivos html.erb por archivos .astro
+4. Cambiar los .yml por .json
+5. Editar las plantillas y los métodos de utilidad
 
 Por lo general tengo por norma dejar bastantes meses de descanso entre el final de la carrera y el momento de empezar a realizar cambios para la siguiente edición. El objetivo es no quemarme por estar todo el año haciendo cambios en todos los proyectos que gestiono. Pero en este caso hice una excepción y me puse un par de meses después de terminar la carrera a hacer la migración tecnológica del sitio web.
 
@@ -42,7 +42,7 @@ Puede parecer poca cosa, pero desde entonces y pese la reticencia a trabajar a l
 
 ## Conclusiones
 
-En primer lugar, no me arrepiento de la elección inicial de generador de sitios estáticos, creo que fue bastante acertada para aquel momento y circunstancias, pero el crecimiento del evento y de la web hizo más necesario que nunca poder hacer modificaciones más frecuentemente. También las tecnologías van evolucionando y al proyecto con Middleman le había llegado su hora. 
+En primer lugar, no me arrepiento de la elección inicial de generador de sitios estáticos, creo que fue bastante acertada para aquel momento y circunstancias, pero el crecimiento del evento y de la web hizo más necesario que nunca poder hacer modificaciones más frecuentemente. También las tecnologías van evolucionando y al proyecto con Middleman le había llegado su hora.
 
 Por otro lado, la reescritura del proyecto me llevó un tiempo que tardaré en amortizar (al menos considerando solamente el propio proyecto) pero ya he comprobado desde el principio que ese momento va a llegar. Y con la motivación extra de la facilidad de cambio quizás antes de lo que me pienso.
 
