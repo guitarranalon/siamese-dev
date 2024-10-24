@@ -11,7 +11,7 @@ metadata:
   title:
     default: siamese.dev
     template: '%s — siamese.dev'
-  description: "\U0001F680 Gestión y desarrollo de proyectos digitales. Te ayudamos a construir la experiencia digital que necesitas"
+  description: "\U0001F63A Gestión y desarrollo de proyectos digitales. Te ayudamos a construir la experiencia digital que necesitas"
   robots:
     index: true
     follow: true

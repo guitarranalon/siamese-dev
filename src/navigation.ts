@@ -36,7 +36,10 @@ export const headerData = {
       href: 'https://www.latostadora.com/shop/quicothesiamese/',
     },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [    {
+    text: 'Hagamos realidad tu idea',
+    href: 'mailto:guitarranalon@gmail.com',
+  },],
 };
 
 export const footerData = {
