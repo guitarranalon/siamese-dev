@@ -1,7 +1,7 @@
 site:
   name: siamese.dev
-  site: 'https://astrowind.vercel.app'
-  base: '/'
+  site: 'https://guitarranalon.github.io'
+  base: 'siamese.dev'
   trailingSlash: false
 
   googleSiteVerificationId: false
