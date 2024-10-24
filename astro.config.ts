@@ -23,7 +23,6 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 
 export default defineConfig({
   output: 'static',
-  site: 'https://guitarranalon.github.io',
   base: 'siamese.dev',
 
   integrations: [
