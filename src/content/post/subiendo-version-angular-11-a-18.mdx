@@ -1,0 +1,53 @@
+---
+publishDate: 2024-11-03T00:00:00Z
+title: Subiendo versión de Angular (11 a 18) en la aplicación de los Techos de Asturias
+excerpt: Mejoras logradas y retos pendientes
+image: ~/assets/images/blog/angular-techos-asturias.webp
+tags:
+  - Angular
+  - migración
+  - Techos de Asturias
+---
+
+A finales de 2020, aprovechando algo de tiempo libre que me surgió y con la idea básica de mejorar la versión anterior, empecé a trabajar con la aplicación de los Techos de Asturias. En aquel momento estaba trabajando con Angular, por lo que me pareció buena idea desarrollarla también con este framework para poder experimentar con ideas y librerías que poder aplicar posteriormente al ámbito profesional. En aquel momento la versión del framework era la 11.
+
+Dada la sencillez de la aplicación todo fue bastante rápido y en unas semanas tenía publicada la aplicación que, aparte de Angular utilizaba:
+
+- Ng-Bootstrap como librería de componentes
+- Akita como librería para la gestión del estado
+
+A partir de ese primer desarrollo inicial y aunque quedaron bastantes ideas pendientes, fui dejando el proyecto y solamente subía alguna foto de los picos que conseguía fotografiar para ir completando el listado. Este año he vuelto a tener algo de tiempo libre y me he planteado retomar el desarrollo, pero no tenía sentido trabajar sobre una versión ya tan obsoleta del framework, como veremos más tarde, por lo que el primer paso sería realizar la migración de la versión de Angular 11 original a la 18 actual... ¡Si era posible! A continuación muestro algunas conclusiones, no un manual paso a paso ya que la documentación de Angular es bastante útil en este sentido.
+
+## ¿Por qué es importante actualizar a una nueva versión de Angular (o de cualquier framework en general)?
+
+Por si hay algún Product Owner despistado que esté leyendo esto y pensando "subir de versión la tecnología no aporta valor al usuario" voy a resumir los principales motivos por los que no puede estar más equivocado:
+
+- Seguridad: en cada iteración de Angular se van reduciendo las vulnerabilidades detectadas en las anteriores. No es nueva funcionalidad, pero sí es valor.
+- Rendimiento: sobre todo con la introducción del motor Ivy la mejora de la rapidez con que carga la aplicación es muy apreciable. Esto es muy importante en las SPA ya que estamos enviando todos los recursos y procesándolos para esa carga inicial y es en las posteriores interacciones donde veremos la ventaja del enfoque. Valor puro y duro.
+- Compatibilidad de dependencias: ¿qué pasa si tengo una dependencia y se descubre una vulnerabilidad en ella, pero la versión que la corrige no está disponible para la versión del framework que estoy utilizando?
+- Nuevas características: si vamos a hacer cambios futuros, siempre nos será más fácil hacerlo con la versión más reciente, consultando la documentación actualizada y exprimiendo hasta la última gota el framework.
+
+## Migración de dependencias: ng-bootstrap
+
+Ng-bootstrap es una librería de componentes de Bootstrap desarrollada y soportada por el equipo de Angular. Una apuesta segura. Sabía por el diseño que iba a necesitar barras de progreso y alertas, por lo que estaba cubierto. Se trata de un desarrollo que se toman muy en serio por lo que cuando lo escogí entendí que no iba a tener problemas para que siguiera teniendo soporte con el tiempo. Y así fue.
+
+La versión compatible con Angular 11 era la 9 y pude subir de versión fácilmente hasta la 12. La versión 13 ya suponía una migración de Bootstrap a su versión 5 por lo que requería mayor atención.
+
+Con Angular 13 pude mantener ng-bootstrap en su versión 11 aunque ya con warnings y, aunque era posible hacer el build en local la github action de despliegue fallaba.
+
+Para subir a Angular 14 fue necesario subir la versión de Bootstrap a la 5 y de esa manera pude subir la versión de ng-bootstrap. Por el medio, algunos estilos no muy relevantes dejaron de funcionar, pero preferí dejarlo para más adelante con el fin de no detener la migración. Ya tendría tiempo al final para arreglar el grano fino.
+
+A partir de subir la versión de Bootstrap a la 5 y actualizar ng-bootstrap en consecuencia no volví a tener ningún problema con la Github action de despliegue, tal y como cabe esperar en un proyecto con un buen soporte por parte de sus desarrolladores. Justo lo contrario de lo que me iba a suceder con la gestión del estado...
+
+## Migración de dependencias: Akita
+
+Cuando planteé originalmente la aplicación quería experimentar con la gestión del estado pero me parecía que la solución más habitual, Redux, era demasiado pesada para un proyecto tan sencillo. Lo que hice fue investigar alternativas y, en aquel entonces, la más aceptada era Akita, una librería sencilla y ligera para la gestión del estado.
+
+Al ponerme con la migración entro en la página de Github del proyecto y dice lo siguiente: "THE LIBRARY IS NOT MAINTAINED ANYMORE - DON'T USE IT
+Elf, a newer state management solution, has been published. We recommend checking it out". Siendo realistas cabía pensar que esto podía pasar al tratarse de un proyecto bastante pequeño. Lo peor no es eso, sino que desoyendo los consejos de Uncle Bob no hubiese retrasado la decisión todo lo posible como un buen arquitecto software debería hacer: todo el código de la aplicación está atado a la librería en lugar de haber creado una abstracción intermedia que facilitase el cambio a otra solución para la gestión del estado.
+
+Lección aprendida. Pero mientras tanto tengo una migración que resolver. Por suerte, es posible subir versión a la útima versión de Angular con la última versión de Akita aún. A ver durante cuánto tiempo.
+
+## Conclusión
+
+Como conclusión, podríamos decir que las migraciones son importantes y necesarias, y nos acabarán surgiendo siempre. Por ello es importante la elección de dependencias que hagamos durante la fase inicial de los proyectos así como su acomodo a nivel arquitectónico al proyecto. No obstante, si has tomado una mala decisión, no es el fin del mundo, se trata de más deuda técnica a gestionar. Y aunque no gestionar sea una manera de gestionar, para un buen arquitecto de software no es una solución 😉. En mi caso, lo mejor que podría hacer antes de continuar con el desarrollo de nuevas funcionalidades en el proyecto no es cambiar la librería por otra sino reducir el acoplamiento con Akita y, a partir de ahí decidir si continuar con Akita mientras aguante o si dar el paso a una alternativa. Seguiremos informando.
