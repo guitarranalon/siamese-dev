@@ -13,7 +13,7 @@ Si alguna vez te has enfrentado al simpático dinosaurio de Chrome cuando se va 
 
 En este divertido mod del clásico juego del dinosaurio, he reemplazado al prehistórico protagonista por una vagoneta cargada de carbón, símbolo de nuestra carrera. Para el fondo he cambiado las nubes por castilletes que representan nuestro entorno, y el recorrido ahora está inspirado en los paisajes que tanto amamos.
 
-## ¿Por qué lo hicimos?
+## ¿Por qué lo hice?
 
 La idea surgió como un experimento sencillo: quería crear algo divertido y generar comunidad antes del evento. Fue un proyecto que nació del deseo de sorprender a los participantes, pero también de darles una excusa más para involucrarse y compartir el espíritu de la carrera.
 
