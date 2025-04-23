@@ -1,4 +1,4 @@
-import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
+import { getBlogPermalink, getAsset } from './utils/permalinks';
 
 export const headerData = {
   links: [
