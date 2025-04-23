@@ -1,7 +1,7 @@
 ---
 publishDate: 2025-01-02T00:00:00Z
 title: Samuño runner
-excerpt: ¡Corre, vagoneta, corre!¡Pero no descarriles! Presentamos el que primer juego de una carrera de trail running
+excerpt: ¡Corre, vagoneta, corre!¡Pero no descarriles! Presentamos el primer juego de una carrera de trail running
 image: ~/assets/images/blog/samunorunner.webp
 tags:
   - trail valle de samuño
