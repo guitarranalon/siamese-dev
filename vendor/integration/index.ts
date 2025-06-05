@@ -91,7 +91,8 @@ export default ({ config: _themeConfig = 'src/config.yaml' } = {}): AstroIntegra
 
           if (hasIntegration && sitemapExists) {
             const robotsTxt = fs.readFileSync(robotsTxtFile, { encoding: 'utf8', flag: 'a+' });
-            const sitemapUrl = new URL(sitemapName, String(new URL(cfg.base, cfg.site)));
+            const baseWithSlash = cfg.base.endsWith('/') ? cfg.base : cfg.base + '/';
+            const sitemapUrl = new URL(sitemapName, new URL(baseWithSlash, cfg.site));
             const pattern = /^Sitemap:(.*)$/m;
 
             if (!pattern.test(robotsTxt)) {
