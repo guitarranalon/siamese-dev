@@ -15,7 +15,7 @@ Uno de los objetivos principales fue actualizar la imagen para hacerla más efic
 
 Un elemento que decidimos mantener desde el principio fue la huella de oso. En primer lugar por exigencia del cliente, pero también por ser un símbolo reconocible de la prueba y conectar de forma natural con Somiedo y todo lo que representa: naturaleza salvaje, territorio protegido y presencia del oso pardo.
 
-![Aplicaciones del logo](/siamese.dev/images/blog/aplicacionesdesafiosomiedo.webp)
+![Aplicaciones del logo](/siamese-dev/images/blog/aplicacionesdesafiosomiedo.webp)
 
 Los colores también juegan un papel importante en esta nueva etapa. Cada una de las pruebas mantiene su propio color distintivo:
 
