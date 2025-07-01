@@ -2,7 +2,11 @@
 
 My profesional website to showcase some projects.
 
-### Commands
+## Environment
+
+Running on node v22.4.1
+
+## Commands
 
 All commands are run from the root of the project, from a terminal:
 
