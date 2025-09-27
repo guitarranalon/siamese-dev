@@ -21,7 +21,7 @@ Todo lo anterior estaría hecho hace años de no ser por un detalle: el tiempo e
 
 Durante el desarrollo he visto varias cosas que me gustaría mejorar, también han salido nuevas versiones de Angular pero me he limitado a ir anotando para atenderlas cuando tenga tiempo (y ganas). Digamos que me he generado un pequeño backlog con sus tareas de deuda técnica que iré priorizando según vea más conveniente en cada iteración.
 
-## ¿Cómo se cubre actualmente el flujo de hacer una ruta? 
+## ¿Cómo se cubre actualmente el flujo de hacer una ruta?
 
 Vamos a ver ahora cómo podríamos utilizar la app en un caso práctico. Supongamos que queremos subir el techo del municipio de Oviedo. Quizás ni siquiera sepamos cuál es o dónde está. Haremos lo siguiente:
 
