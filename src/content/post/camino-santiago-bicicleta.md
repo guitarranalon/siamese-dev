@@ -12,7 +12,7 @@ tags:
 
 Hacer el **Camino de Santiago en bicicleta** es una experiencia única que puede marcarte para toda la vida. Algunas personas repiten año tras año, explorando diferentes rutas. Si es tu primera vez en bici o tu primera vez en el Camino, esta **guía para principiantes** te ayudará a planificar tus pedaladas con seguridad y diversión.
 
-👉 _Si prefieres orientarte por experiencias concretas puedes leer sobre [mi experiencia en el Camino Primitivo](/mi-experiencia-camino-primitivo-bikepacking-etapa-1)._
+👉 _Si prefieres orientarte por experiencias concretas puedes leer sobre [mi experiencia en el Camino Primitivo](/siamese-dev/mi-experiencia-camino-primitivo-bikepacking-etapa-1)._
 
 ## ¿Qué bici llevar?
 

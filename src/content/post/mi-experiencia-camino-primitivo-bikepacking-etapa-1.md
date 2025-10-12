@@ -16,7 +16,7 @@ Para alguien como yo que creció cerca de Oviedo y ha estudiado y trabajado all�
 
 En este artículo te cuento cómo lo preparé, las tres etapas que hice, mis sensaciones en cada una y algunos consejos que pueden ayudarte si estás pensando hacer el Camino en bici. También te dejo el vídeo completo de la experiencia en mi canal de YouTube y los enlaces a las rutas en Strava.
 
-👉 _Si buscas consejos más detallados sobre cómo planificar tu Camino, puedes leer mi [guía para principiantes en bici](/camino-santiago-bicicleta)._
+👉 _Si buscas consejos más detallados sobre cómo planificar tu Camino, puedes leer mi [guía para principiantes en bici](/siamese-dev/camino-santiago-bicicleta)._
 
 ## 🎥 Vídeo del Camino Primitivo en bici
 
