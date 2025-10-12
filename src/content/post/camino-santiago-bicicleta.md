@@ -12,6 +12,8 @@ tags:
 
 Hacer el **Camino de Santiago en bicicleta** es una experiencia única que puede marcarte para toda la vida. Algunas personas repiten año tras año, explorando diferentes rutas. Si es tu primera vez en bici o tu primera vez en el Camino, esta **guía para principiantes** te ayudará a planificar tus pedaladas con seguridad y diversión.
 
+👉 _Si prefieres orientarte por experiencias concretas puedes leer sobre [mi experiencia en el Camino Primitivo](/mi-experiencia-camino-primitivo-bikepacking-etapa-1)._
+
 ## ¿Qué bici llevar?
 
 Una de las cosas más maravillosas del Camino de Santiago es que no se trata de una experiencia restrictiva: no es obligatorio hacerlo caminando. Hay quien peregrina a caballo, quien lo hace corriendo e incluso en kayak (en su mayor parte), y cada vez más peregrinos optan por hacerlo en bicicleta. Eso sí, si quieres obtener la codiciada **Compostela en bici**, deberás completar al menos **200 km**.
