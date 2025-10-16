@@ -95,16 +95,4 @@ Una vez acabada la cena, vamos recogiendo nuestra ropa (lavada en el albergue) d
 
 El albergue de Los Hospitales (Colinas de Arriba) resultó la mejor elección posible para mi primera noche peregrina. Las instalaciones son muy nuevas, la atención es de 10, majísimos y, aunque en el pueblo no hay nada (son 4 casas) ya te ofrecen ellos todo lo que puedas necesitar (cena, desayuno -bien copioso-, lavado de ropa, bar...). Para los más curiosos, en total fueron 37€ que incluyen: alojamiento, cena, desayuno y lavado de ropa. Además, desde este albergue puedes elegir si continuar por la ruta de los Hospitales o bajar a Pola de Allande y subir por el tramo que va paralelo a la carretera de El Palo.
 
-## ...Continuará
-
-<!-- ## Etapa 2 del Camino Primitivo en bici: Colinas de Arriba → O Cádavo
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15733452708" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-...
-
-## Etapa 3 del Camino Primitivo en bici: O Cádavo → Santiago
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15733465595" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-... -->
+👉 _Continúa leyendo [mi segunda etapa por el Camino Primitivo en modo bikepacking](/siamese-dev/mi-experiencia-camino-primitivo-bikepacking-etapa-2)._
