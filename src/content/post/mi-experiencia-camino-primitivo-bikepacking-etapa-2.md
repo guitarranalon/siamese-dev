@@ -1,15 +1,15 @@
 ---
 publishDate: 2025-10-18T00:00:00Z
-title: 'Etapa 2 del Camino Primitivo bikepacking: mi experiencia'
-excerpt: 'La parte más bonita del Camino Primitivo'
-image: ~/assets/images/blog/camino-primitivo-bikepacking-etapa-2.avif
+title: 'Camino Primitivo en bici - Etapa 2: Colinas de Arriba (Tineo) → O Cádavo'
+excerpt: 'Segunda jornada del Camino Primitivo en bicicleta de carretera: una etapa exigente con paisajes espectaculares y mi experiencia personal pedaleando hasta Lugo (casi)'
+image: ~/assets/images/blog/camino-santiago-primitivo-bikepacking-etapa-2.avif
 tags:
   - camino de santiago
   - camino primitivo
-  - bicicleta
   - bikepacking
-  - peregrinos
+  - bicicleta
   - cicloturismo
+  - peregrinos
 ---
 
 👉 _Si buscas consejos más detallados sobre cómo planificar tu Camino, puedes leer mi [guía para principiantes en bici](/siamese-dev/camino-santiago-bicicleta)._
@@ -29,6 +29,8 @@ Salgo del recinto y voy dejándome llevar por la cuesta, sin dar pedales, pensan
 La carretera es muy buena y sin tráfico, pero un gato muerto en la cuneta me recuerda que cuando pasan los coches por este tipo de carreteras no suelen ir despacio... Subo un breve repecho y aparezco en el alto de Porciles. Pequeña bajada, otro repecho y llego al alto de Lavadoira. Descenso largo y rápido hasta Pola de Allande. Antes de llegar me encuentro (como no) con una cuadrilla de mantenimiento de carreteras.
 
 Pola de Allande es un pueblo que me encanta, aunque hoy no tengo tiempo para pasear. Un par de fotos y para El Palo. El pueblo amanece lleno de peregrinos, algunos orientales, que están arrancando su día. En el pueblo hay un cierto ambiente.
+
+### El Puerto del Palo
 
 La subida del Palo es bastante larga, unos 10km y aunque sus pendientes son cómodas (5-6%) con la que me espera hoy es necesario ir regulando. Paso por la gasolinera del pueblo, unos llamativos chalets y ya se acabó Pola de Allande. Voy pasando por los diferentes pueblos: Colobredo, Peñaseita,... mientras cojo altura. El paisaje es totalmente distinto al del día anterior. Mucho menos humanizado, sin cultivos, monte bajo. El asfalto es fino y permite subir cómodamente. Paso el desvío para La Marta y el Bustantigo, y ya veo referencias a Grandas de Salime (38km). Falta mucho, pero gran parte será en bajada.
 
@@ -54,6 +56,8 @@ Continúo la bajada con el camión del butano estorbándome. Sin embargo, la car
 
 La carretera va perdiendo altura, entrando en el valle del Navia y cubriéndose de bosque. Eso y el hecho de ir bajando hacen que la sensación térmica se desplome y me da una tiritona que no tengo recuerdo de haber vivido nunca. Estoy temblando bastante, hasta me castañean los dientes, pero no puedo controlarlo. Al pasar por el pueblo de El Collao veo el desvío a San Emiliano y sé que ya casi terminé la bajada, así que decido continuar sin abrigarme.
 
+### Pantano de Grandas de Salime y Grandas
+
 Y, tal y como había previsto, me vuelvo a encontrar con el camión del butano en mitad de la bajada. Eso sí, están detenidos en un semáforo temporal que regula el tráfico en un argayu. Paro también unos minutos (que tampoco me viene mal con el frío que tengo). Soplo en las manos para intentar calentar los dedos. Cuando por fin se abre el semáforo continuamos la bajada y enseguida llegamos al mirador del pantano de Salime. El sitio ya lo conocía de hace unos 25 años que nos había traído mi tío a mi hermana y a mi en una excursión en nochevieja o añonuevo. Lo recordaba más espectacular, cosas de visitar algo de niño/adolescente, pero sigue siendo bonito. El recuerdo de aquella visita me pone un poco triste/emotivo.
 
 Al salir del mirador pasa un ciclista, es el tercero que me cruzo hoy, todos subiendo hacia Berducedo. No veía ciclistas probablemente desde La Cabruñana el día anterior. Me pregunta si me engancho con él pero llevamos direcciones opuestas.
@@ -64,13 +68,17 @@ En este tramo el Camino transcurre por la carretera así que está lleno de pere
 
 Voy superando la melancolía con las rampas que me llevan a Grandas de Salime donde paro en un bar a tomarme una Coca-cola y un pincho de jamón. Aprovecho para que me sellen la credencial del peregrino. 4,20€ me parece un poco excesivo para un pueblo así, pero es lo que hay. Enseguida retomo los pedales, paso por la curiosa iglesia y me pongo a subir el Acebo, última gran dificultad del día.
 
+### El Alto del Acebo y Piedras Apañadas
+
 La carretera atraviesa varios pueblos. Esto no tiene nada que ver con el Palo, está totalmente humanizado y el tráfico, sin ser abundante, es mayor. Y además a altas velocidades que permite la carretera. En un largo descanso que tiene a la mitad me permito el lujo de acoplarme un poco y apretar, pero cuando parece que ya no puede endurecerse, en una recta, se ve un gran cambio de pendiente (a más duro) que ya me acompañará hasta arriba.
 
 Corono el puerto pero aún no entro en Galicia. ¡Es una trampa! Toda esta zona es así, ya no hay pasos con subidas y bajadas muy definidas, sino repechos y constantes cambios de pendiente. Pasado un rato cartel de Galicia/Lugo. Desde el pantano de Salime el cielo está totalmente despejado y la temperatura no ha parado de subir. Poco a poco llego a Galicia y al poco tiempo a un cruce característico con un bar.
 
 Aquí decido seguir con el plan que traigo de casa y, como las piernas aún van bien y es un sitio tan tan tan a desmano, aprovecho para subir el [techo de Grandas de Salime](https://www.latostadora.com/web/camiseta-techos-de-asturias/18912383): [Piedras Apañadas](https://guitarranalon.github.io/MisTechosAsturias2/#/detalle/28). Meto todo el desarrollo que tengo para no arrepentirme después de la excursión y tomo el desvío hacia el mítico municipio de Negueira de Muñiz. Después de un par de kilómetros corono el alto (que no el pico) de Piedras Apañadas, que no tiene grandes pendientes. El calor aprieta bastante y las vistas son muy amarillas para un asturiano. En el alto me desvío otra vez hacia el norte para subir la rampa de asfalto (en deplorable estado) hasta llegar arriba. La pendiente supera aquí el 15% en la parte superior, aunque son pocos metros. En el pico no paro mucho ya que el calor me está empezando a afectar y aún me falta bastante para terminar hoy. Es una cima con varias casetas, alguna parece más para controlar incendios antiguamente. También hay varios molinos eólicos.
 
-Me paro a reflexionar: no creo que haya mucha gente que haya subido a Piedras Apañadas saliendo desde Oviedo en bici. Como tampoco creo que haya muchos peregrinos que haciendo uno de los caminos más duros le añadan a la etapa reina este tipo de extras. Pero me encanta haberlo hecho. Para mí es el techo de mi Camino Primitivo. 
+Me paro a reflexionar: no creo que haya mucha gente que haya subido a Piedras Apañadas saliendo desde Oviedo en bici. Como tampoco creo que haya muchos peregrinos que haciendo uno de los caminos más duros le añadan a la etapa reina este tipo de extras. Pero me encanta haberlo hecho. Para mí es el techo de mi Camino Primitivo.
+
+### Fonsagrada y tramo final hasta O Cádavo
 
 Empiezo la bajada andando ya que el asfalto está completamente roto y enseguida me monto para bajar con tensión otra vez hasta el alto. Aquí tomo de nuevo la carretera hasta el cruce del bar de antes, donde ya hay bastantes peregrinos. Seguramente dormirán en Fonsagrada, parada típica del Primitivo. El tramo a Fonsagrada se me hace bastante pesado, es un contínuo sube y baja por los altos de la zona y tanto la calor como los kilómetros van haciendo mella. Decido que no puedo salir de Fonsagrada sin haber conseguido agua, que ya he terminado. Curiosamente, Fonsagrada no está como esperaba en un sitio protegido sino más bien en lo alto de una montaña, por lo que para llegar hay que subir un repecho más largo de lo habitual.
 
