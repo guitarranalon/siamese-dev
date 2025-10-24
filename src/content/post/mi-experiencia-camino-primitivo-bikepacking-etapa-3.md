@@ -2,7 +2,7 @@
 publishDate: 2025-10-18T00:00:00Z
 title: 'Camino Primitivo en bici - Etapa 3: O Cádavo → Santiago'
 excerpt: 'Tercera y última etapa del Camino de Santiago Primitivo en bicicleta, que empieza con tramos bonitos y se masifica a partir de Melide'
-image: ~/assets/images/blog/camino-santiago-primitivo-bikepacking-etapa-2.avif
+image: ~/assets/images/blog/camino-santiago-primitivo-bikepacking-etapa-3.avif
 tags:
   - camino de santiago
   - camino primitivo
