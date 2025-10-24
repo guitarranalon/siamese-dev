@@ -1,7 +1,7 @@
 ---
 publishDate: 2025-10-24T00:00:00Z
-title: "Camino Primitivo en bici – Etapa 3: O Cádavo a Santiago de Compostela"
-excerpt: "Última etapa del Camino Primitivo en bicicleta de carretera. Mi experiencia final pedaleando desde O Cádavo hasta Santiago: perfil, consejos y sensaciones al llegar."
+title: 'Camino Primitivo en bici – Etapa 3: O Cádavo a Santiago de Compostela'
+excerpt: 'Última etapa del Camino Primitivo en bicicleta de carretera. Mi experiencia final pedaleando desde O Cádavo hasta Santiago: perfil, consejos y sensaciones al llegar.'
 image: ~/assets/images/blog/camino-santiago-primitivo-bikepacking-etapa-3.avif
 tags:
   - camino primitivo en bici
@@ -30,7 +30,7 @@ Pasado un rato subo a la habitación, ya no puedo esperar más, pero un grupo de
 
 Enseguida me preparo y salgo del albergue. Hoy ya no hay nervios: ¡hay ganas de darle caña! Unas fotos en la calle con la luz del amanecer y ¡a pedalear! Voy muy motivado, así que es importante controlar. El recorrido empieza con una subida de unos pocos kilómetros hasta el Alto da Baqueriza (836m). Hay un amanecer muy chulo y paro a disfrutar y hacer un par de fotos. A partir de aquí el recorrido tiene tendencia descendente hasta Lugo.
 
-Es sábado y la hora mañanera hace que no haya apenas tráfico, cosa que se agradece porque la carretera (que tiene algunos tramos sin pintar) permite a los vehículos circular a velocidades altas. Este tramo lo hago bastante rápido y en poco más de 1h estoy entrando en Lugo. 
+Es sábado y la hora mañanera hace que no haya apenas tráfico, cosa que se agradece porque la carretera (que tiene algunos tramos sin pintar) permite a los vehículos circular a velocidades altas. Este tramo lo hago bastante rápido y en poco más de 1h estoy entrando en Lugo.
 
 ### De Lugo a Melide por Los Hospitales
 
@@ -38,7 +38,7 @@ En Lugo me reciben unas cuestas importantes. La ciudad está en lo alto de una e
 
 Entro en la parte antigua de la ciudad y sin posibilidad de confusión salgo a la Plaza Mayor, donde relleno el [bote de la bici](https://www.latostadora.com/web/botella-bikepacking-gravel/18903552). Seguidamente paso por la Catedral románica de Santa María y me paro en la plaza a hacer unas fotos ya que está cerrada aún. En general se ve que la ciudad se está desperezando aún.
 
-Tranquilamente bajo la colina por el extremo opuesto por el que he entrado en Lugo y cruzo el Miño todavía con una luz espectacular. El Camino sigue unos metros paralelo al río hasta que unas duras rampas me obligan a volver a esforzarme. Esta zona está llena de peregrinos, bicigrinos y ciclistas locales. Al coronar la cuesta se sigue por una carretera con cambios de rasante pero siempre con poca pendiente que acaba convirtiéndose en una carretera sin división en la mitad, que va pasando por muchos pueblos. 
+Tranquilamente bajo la colina por el extremo opuesto por el que he entrado en Lugo y cruzo el Miño todavía con una luz espectacular. El Camino sigue unos metros paralelo al río hasta que unas duras rampas me obligan a volver a esforzarme. Esta zona está llena de peregrinos, bicigrinos y ciclistas locales. Al coronar la cuesta se sigue por una carretera con cambios de rasante pero siempre con poca pendiente que acaba convirtiéndose en una carretera sin división en la mitad, que va pasando por muchos pueblos.
 
 Poco a poco el paisaje se va tornando más rural y agradable de pedalear. Está todo lleno de robles, algunos de bastante porte. Aunque aún falta para el otoño algunas ráfagas arrancan hojas que caen a mi paso dando un ambiente muy especial. También paso por varias iglesias pequeñas con su cementerio. ¡Este es el tipo de ruta que haría aunque no fuera el [Camino de Santiago](https://www.latostadora.com/web/sudadera-elige-tu-camino-de-santiago/18905372)!
 
@@ -70,9 +70,9 @@ La carretera a partir de Melide es una nacional con mucho tráfico y a gran velo
 
 Después de un tramo bastante largo llego a Arzúa. Aquí, al menos, los coches pasan a una velocidad más moderada. Además la salida es en bajada, lo que hace que se pueda quitar rápidamente algo de distancia. Poco más adelante la carretera llega a una rotonda que da entrada al tramo ya inaugurado de la autovía Santiago - Lugo. Y por ahí se van casi todos los coches. A partir de aquí la carretera es mucho más agradable. Cuando la autovía esté inaugurada hasta Melide este tramo será bastante más tranquilo y seguro.
 
-Alcanzo a un chico de 12 años y a su padre, alemanes, que vienen en bici desde París. Brutal. Me quito el sombrero (el casco). Les cuento que yo vengo de mucho más cerca y continúo a mi ritmo. Este tramo es un continuo sube y baja que dificulta encontrar un ritmo rápido y sostenible. Después de un rato llego a un alto con dos bares que están a reventar de peregrinos. Me plantearía parar pero me agobia sólo de pensarlo. Continuo bajando y llego a O Pedrouzo. Esta es la última parada antes de Santiago y está todo abarrotado de infraestructura relacionada con el Camino. Albergues, pensiones, bares, alquiler de bicis...  La gente me mira desde las terrazas y se nota un ambiente de excitación general.
+Alcanzo a un chico de 12 años y a su padre, alemanes, que vienen en bici desde París. Brutal. Me quito el sombrero (el casco). Les cuento que yo vengo de mucho más cerca y continúo a mi ritmo. Este tramo es un continuo sube y baja que dificulta encontrar un ritmo rápido y sostenible. Después de un rato llego a un alto con dos bares que están a reventar de peregrinos. Me plantearía parar pero me agobia sólo de pensarlo. Continuo bajando y llego a O Pedrouzo. Esta es la última parada antes de Santiago y está todo abarrotado de infraestructura relacionada con el Camino. Albergues, pensiones, bares, alquiler de bicis... La gente me mira desde las terrazas y se nota un ambiente de excitación general.
 
-Sigo. Ya encontraré dónde parar, aunque no tengo agua, pero bueno, falta poco. Justo antes de subir el repecho del aeropuerto adelanto a una pareja de ciclistas que están apartados en el arcén. Ella parece muy cansada y él le da ánimos. Rodeo el aeropuerto por el norte y vuelvo a bajar para... ¡sorpresa! Volver a subir. 
+Sigo. Ya encontraré dónde parar, aunque no tengo agua, pero bueno, falta poco. Justo antes de subir el repecho del aeropuerto adelanto a una pareja de ciclistas que están apartados en el arcén. Ella parece muy cansada y él le da ánimos. Rodeo el aeropuerto por el norte y vuelvo a bajar para... ¡sorpresa! Volver a subir.
 
 A la altura de un hotel próximo al monte do Gozo me aparto de la carretera una vez más a consultar cuánto me puede faltar y veo que ya casi nada. Enseguida comienza la bajada y paso por encima de una autopista. Y por fin, ya veo el legendario cartel de Santiago con el fondo arco iris.
 
@@ -98,7 +98,7 @@ El Camino Primitivo es un recorrido bastante duro. Sí, podría haber hecho más
 
 ### Masificación
 
-Antes de salir ya sabía de la masificación del Camino. Por eso elegí las fechas que elegí. Y sí, yo también contribuí a esa masificación, pero uno de los motivos para hacerlo en bici era precisamente poder hacer el tramo más masificado sin tener que pararme a dormir en él. Que fuese un trámite. El hecho de que la mayor parte de la gente priorice hacer los 100km finales más la confluencia de varios Caminos hacen que esta parte esté atestada de gente. 
+Antes de salir ya sabía de la masificación del Camino. Por eso elegí las fechas que elegí. Y sí, yo también contribuí a esa masificación, pero uno de los motivos para hacerlo en bici era precisamente poder hacer el tramo más masificado sin tener que pararme a dormir en él. Que fuese un trámite. El hecho de que la mayor parte de la gente priorice hacer los 100km finales más la confluencia de varios Caminos hacen que esta parte esté atestada de gente.
 
 **Para mi,** la esencia de este tipo de actividades viene del viaje interior que suponen y no por llegar a un sitio concreto u obtener un papel (la Compostela). Además, el Camino puede hacerse en varios años, conociendo sitios más intersantes en lugar de, como hace mucha gente, centrarse en los 100km finales de un Camino distinto cada año. Personalmente si pudiese volver a vivir alguna experiencia de este Camino no sería necesariamente la entrada en el Obradoiro.
 
