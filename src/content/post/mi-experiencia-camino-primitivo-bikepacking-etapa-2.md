@@ -100,11 +100,4 @@ La cena entra fácil: una pizza margarita y de postre tarta de Santiago (no pod�
 
 A las 22:00, con todo el mundo en la cama, se apagan las luces e intento dormir lo mejor que puedo. Y aunque me cuesta un poco empezar en una habitación con tanta gente, acabo consiguiéndolo. El propio albergue cuenta con habitaciones más pequeñas y todavía asequibles, pero esta experiencia forma parte también del Camino y me alegro de estar viviéndola.
 
-## ...Continuará
-
-<!--
-## Etapa 3 del Camino Primitivo en bici: O Cádavo → Santiago
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15733465595" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-... -->
+👉 _Continúa leyendo [mi tercera etapa por el Camino Primitivo en modo bikepacking](/siamese-dev/mi-experiencia-camino-primitivo-bikepacking-etapa-3)._
