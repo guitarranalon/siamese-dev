@@ -115,6 +115,43 @@ const metadata = {
   />
 
   <!-- Content Widget **************** -->
+  <Content
+    isReversed
+    items={[
+      {
+        title: 'Descripción:',
+        description:
+          'Bibscout es una herramienta de marketing visual pensada para carreras y eventos deportivos que convierte las fotos de carrera en piezas listas para compartir. Cada imagen se entrega ya enriquecida con los datos más relevantes del atleta y de la prueba, eliminando fricción y facilitando que los participantes publiquen su experiencia en redes sociales de forma inmediata.',
+      },
+      {
+        title: 'Características:',
+        description:
+          'Bibscout genera imágenes personalizadas, coherentes y visualmente potentes, diseñadas para funcionar especialmente bien en redes sociales. El resultado son fotografías que resumen la carrera de un solo vistazo, refuerzan la identidad del evento y multiplican el alcance orgánico gracias a que los propios participantes las comparten de manera natural.',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/bibscout-index.avif',
+      alt: 'Imagen de la aplicación',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Mejora la visibilidad de tu carrera sin pedirle esfuerzo extra a los corredores',
+      icon: 'tabler:chevron-right',
+      href: '/siamese-dev/bibscout',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">
+        Bibscout: <br /><span class="text-2xl">Fotografía digital que se comparte sola</span>
+      </h3>
+    </Fragment>
+
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
 
   <Content
     id="porfolio"
