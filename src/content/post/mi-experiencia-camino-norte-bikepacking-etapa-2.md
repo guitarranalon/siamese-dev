@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-09-21T00:00:00Z
-title: 'Mi experiencia personal por el Camino del Norte en bici de carretera en modo bikepacking'
+title: 'Por el Camino del Norte en bici de carretera en modo bikepacking - etapa 2 - Comillas a Bilbao'
 excerpt: 'Atravesando Cantabria y entrando en el País Vasco por el Camino del Norte'
 image: ~/assets/images/blog/camino-norte-bikepacking-etapa-2.avif
 tags:
@@ -141,3 +141,5 @@ Una etapa muy larga deja muchas sensaciones e ideas:
 - Nuevamente la nutrición postetapa es escasa, aunque no me doy cuenta hasta analizarlo días después.
 - La nutrición durante el recorrido fue bien, aunque debería tener la parada para comer algo planificada en lugar de improvisarla (no me refiero al momento o al sitio, sino al hecho de parar, no es lo mismo el primer día que la mitad es terreno conocido que el segundo que ya es zona novedosa y cansancio acumulado).
 - No se puede infravalorar la dureza de los constantes cambios de pendiente. Físicamente es fácil de gestionar, básicamente consiste en subir un poco más lento de lo que subirías en una salida normal, pero psicológicamente, pasar 10 ó 15 minutos subiendo para perder esa altura en 5 y volver a empezar una y otra vez se hace duro.
+
+👉 _[Mi tercera etapa por el Camino del Norte en modo bikepacking](/siamese-dev/mi-experiencia-camino-norte-bikepacking-etapa-3)._
