@@ -125,3 +125,5 @@ Después de departir con otros peregrinos, entre ellos unos bilbaínos majísimo
 Se trata de una etapa bastante larga pero con rampas cortas y no muy empinadas. Esto la hace bastante asequible. Aunque la haya hecho en sentido contrario al habitual del Camino aplica bastante bien todo lo descrito si quieres hacerlo en dirección Santiago ya que los desniveles son muy similares. Por otra parte, 133km son bastante manejables (para mi, gracias a mis entrenamientos, que describiré en otra entrada, piénsate bien si es tu caso). Hay que tener en cuenta que esta etapa tiene pocas interrupciones (travesías urbanas, pases en barco y obstáculos en general) por lo que no se hace demasiado larga.
 
 Desde el punto de vista nutricional, si bien me fue bien durante y considero que hice bien la recuperación, creo que fallé a nivel de calorías ingeridas durante la cena. Tendría que haber añadido pan o algún plato más para recuperar más glucógeno durante la noche y tener más reserva para los dos días que faltaban.
+
+👉 _[Mi segunda etapa por el Camino del Norte en modo bikepacking](/siamese-dev/mi-experiencia-camino-norte-bikepacking-etapa-2)._
